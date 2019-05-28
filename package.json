@@ -10,10 +10,12 @@
     "start": "bundle exec middleman server"
   },
   "dependencies": {
+    "bundle": "^2.1.0",
     "imagesloaded": "^4.1.1",
     "lory.js": "^2.2.1",
     "masonry-layout": "^4.1.1",
-    "scroll-lazy": "^1.0.3"
+    "scroll-lazy": "^1.0.3",
+    "uninstall": "0.0.0"
   },
   "devDependencies": {
     "babel-core": "^6.18.2",
